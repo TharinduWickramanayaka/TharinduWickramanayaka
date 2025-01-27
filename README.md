@@ -19,7 +19,8 @@
   <a href="mailto:wickramanayakatmofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://itzme.wickramanayaka.online/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://www.youtube.com/@Professor_4pro"><img src="https://img.shields.io/youtube/channel/views/UCnFG7eSwKJvO8Mbk372ybLA?style=for-the-badge&logo=html5&logoColor=white" alt="Professor YouTube Views" /></a>
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <a href="https://itzme.wickramanayaka.online/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  ![AWS]()
 </div>
 
 ---
