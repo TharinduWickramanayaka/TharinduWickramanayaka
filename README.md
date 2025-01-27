@@ -16,11 +16,6 @@
 
 ---
 
-### 📚 Education
-
-- 🎓 **Sri Lankan Technological Campus** (2021–2025)  
-  **BSc (Hons) in Information Technology in Cyber Security**
-
 ### 🏆 Certifications
 
 ---
