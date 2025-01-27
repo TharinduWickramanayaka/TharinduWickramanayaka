@@ -33,8 +33,5 @@
 - 🌱 Hands-on with **AWS**, **Azure**, **Oracle Cloud**, **Contabo**, **Docker**, **NodeJS**, and **MySQL/MongoDB Basics**.
 - 🌐 Proficient in **cPanel hosting**, **VPN server implementation**, and **high-performance web hosting**.
 - 🤝 I’m eager to collaborate on **SaaS applications**, **CI/CD pipelines**, and **Linux tools development**.
-
 ---
 
-### 🎨 Fun Fact
-_"I'm driven by a deep passion for simplifying complex workflows and optimizing server environments to make technology more accessible for everyone!"_
