@@ -21,13 +21,9 @@
 </div>
 
 ---
-
 ### 🏆 Certifications
-- **Certified Kubernetes Administrator (CKA)** - In Progress
 - **AWS Certified Solutions Architect – Associate**  
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-- **CompTIA Security+**
-
 ---
 
 ### 🚀 About Me
