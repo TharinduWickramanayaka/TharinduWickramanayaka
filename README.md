@@ -20,13 +20,6 @@
 - 🎓 **Sri Lankan Technological Campus** (2021–2025)  
   **BSc (Hons) in Information Technology in Cyber Security**
 
-- 🖥️ **Kaluthara Technical College** (2021)  
-  **NVQ Level 4 in Computer Hardware**
-
-- 🏫 **Bulathsinhala National College** (2020)  
-  Passed **G.C.E. Advanced Level**
-
----
 
 ### 💼 Experience
 
@@ -43,10 +36,6 @@
 ---
 
 ### 🏆 Certifications
-
-- **Udemy**: Certifications in DevOps-related tools and technologies.  
-- **G.C.E. O/L Certificate**  
-- **G.C.E. A/L Certificate**
 
 ---
 
