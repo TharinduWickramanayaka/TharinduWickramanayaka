@@ -20,6 +20,16 @@
   <a href="https://itzme.wickramanayaka.online/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://www.youtube.com/@Professor_4pro"><img src="https://img.shields.io/youtube/channel/views/UCnFG7eSwKJvO8Mbk372ybLA?style=for-the-badge&logo=html5&logoColor=white" alt="Professor YouTube Views" /></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  
+  
 
 </div>
 
