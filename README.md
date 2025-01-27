@@ -30,7 +30,6 @@
 
 - 👨‍💻 I’m **Tharindu Mihiran Wickramanayaka**, a passionate undergraduate pursuing  
   **BSc (Hons) in Information Technology in Cyber Security** at **Sri Lankan Technological Campus (SLTC)**.
-- 🛠️ I specialize in **DevOps**, **Cloud Computing**, and **Linux Server Optimization**.
 - 🌱 Hands-on with **AWS**, **Azure**, **Oracle Cloud**, **Contabo**, **Docker**, **NodeJS**, and **MySQL/MongoDB Basics**.
 - 🌐 Proficient in **cPanel hosting**, **VPN server implementation**, and **high-performance web hosting**.
 - 🤝 I’m eager to collaborate on **SaaS applications**, **CI/CD pipelines**, and **Linux tools development**.
