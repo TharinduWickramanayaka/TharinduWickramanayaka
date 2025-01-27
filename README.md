@@ -7,7 +7,8 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m **Tharindu Mihiran Wickramanayaka**, a passionate undergraduate pursuing **BSc (Hons) in Information Technology in Cyber Security** at **Sri Lankan Technological Campus** (SLTC).
+- 👨‍💻 I’m **Tharindu Mihiran Wickramanayaka**, a passionate undergraduate pursuing
+-  **BSc (Hons) in Information Technology in Cyber Security** at **Sri Lankan Technological Campus** (SLTC).
 - 🛠️ I specialize in **DevOps**, **Cloud Computing**, and **Linux Server Optimization**.
 - 🌱 Hands-on with **AWS**, **Azure**, **Oracle Cloud**, **Contabo**, **Docker**, **NodeJS**, and **MySQL/MongoDB Basics**.
 - 🌐 Proficient in **cPanel hosting**, **VPN server implementation**, and **high-performance web hosting**.
@@ -19,21 +20,6 @@
 
 - 🎓 **Sri Lankan Technological Campus** (2021–2025)  
   **BSc (Hons) in Information Technology in Cyber Security**
-
-
-### 💼 Experience
-
-- **DevOps Freelancer** (Dec 2023 – Present)  
-  - Optimized Linux environments for **performance** and **security**.  
-  - Automated deployment processes using **CI/CD pipelines**.  
-  - Implemented **monitoring solutions** with **Prometheus** and **Grafana**.
-
-- **Server Developer & Admin** – DSG Minecraft Server (Feb 2020 – Jan 2022)  
-  - Designed and maintained **game hosting environments**.  
-  - Managed server configurations with **Ansible**.  
-  - Enhanced network performance through **monitoring and logging solutions**.
-
----
 
 ### 🏆 Certifications
 
