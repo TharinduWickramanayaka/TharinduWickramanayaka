@@ -24,7 +24,7 @@
 
 | **GitHub Stats**           | **Most Used Languages**     |
 |-----------------------------|-----------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharindu-wickramanayaka&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-wickramanayaka&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharindu-wickramanayaka&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/) |
 
 ---
 
