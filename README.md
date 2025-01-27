@@ -19,6 +19,11 @@
   <a href="mailto:wickramanayakatmofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://itzme.wickramanayaka.online/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://www.youtube.com/@Professor_4pro"><img src="https://img.shields.io/youtube/channel/views/UCnFG7eSwKJvO8Mbk372ybLA?style=for-the-badge&logo=html5&logoColor=white" alt="Professor YouTube Views" /></a>
+</div>
+---
+### 🌐 Connect & Collaborate
+
+<div align="center">
   <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /></a>
@@ -28,9 +33,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /></a>
-  
-  
-
 </div>
 
 ---
