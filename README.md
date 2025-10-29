@@ -52,4 +52,11 @@
 - 🌐 Proficient in **cPanel hosting**, **VPN server implementation**, and **high-performance web hosting**.
 - 🤝 I’m eager to collaborate on **SaaS applications**, **CI/CD pipelines**, and **Linux tools development**.
 ---
+<div align="center">
+
+### 💡 *"Infrastructure is code. Security is culture. Automation is power."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=TharinduWickramanayaka&color=blueviolet&style=for-the-badge)
+
+</div>
 
